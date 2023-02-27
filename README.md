@@ -7,7 +7,7 @@
 - 2021 - 2022: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mondokmMsc2022.pdf)
 - 2017 - 2021: **Budapest University of Technology and Economics**  
-  Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mondokmBcs2020.pdf)
+  Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mondokmBsc2020.pdf)
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 
