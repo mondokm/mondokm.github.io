@@ -1,0 +1,45 @@
+---
+layout: default
+title: Publications
+---
+<style type="text/css">
+    /* Display some nice labels for the different categories */
+    #group_article div.bibbase_group i+span { display: none; }
+    #group_article div.bibbase_group i:after { content: " Journal articles" }
+    #group_inproceedings div.bibbase_group i+span { display: none; }
+    #group_inproceedings div.bibbase_group i:after { content: " In proceedings" }
+    #group_incollection div.bibbase_group i+span { display: none; }
+    #group_incollection div.bibbase_group i:after { content: " In collection" }
+    #group_techreport div.bibbase_group i+span { display: none; }
+    #group_techreport div.bibbase_group i:after { content: " Technical reports" }
+    
+    .dontprint:before { content: ' '; display: block; } /* Links in new line */
+    /* Link colors */
+    .bibbase_icon_text, .bibbase.link{ color: #06f; font-size: 11px; }
+    .bibbase_icon_text:hover, .bibbase.link:hover{ color: #09f; }
+    .bibbase.author.link {color: #000; text-decoration: none; font-size: 12px; }
+    .dropdown-toggle{ color: black; text-decoration: none; }
+    
+    .bibbase_amazon { display: none; } /* Hide 'buy' link */
+    
+    .bibbase_group{ width: 120px; }
+</style>
+
+<script src="https://bibbase.org/show?bib=https://leventebajczi.github.io%2Fpublications.bib&jsonp=1&theme=side"></script>
+
+<script>
+    function underliner() {
+        var nameSpans = document.querySelectorAll("span.bibbase_paper_author");
+        nameSpans.forEach(span => {
+            span.innerHTML = span.innerHTML.replaceAll("Bajczi, L.", "<u>Bajczi, L.</u>");
+        });
+    }
+    underliner();
+    var divToWatch = document.getElementById("bibbase");
+    var observer = new MutationObserver(() => {
+        observer.disconnect();
+        underliner();
+        observer.observe(divToWatch, {subtree: true, childList: true});
+    });
+    observer.observe(divToWatch, {subtree: true, childList: true}); 
+</script>
