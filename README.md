@@ -12,13 +12,17 @@ PhD student in formal methods at the Budapest University of Technology and Econo
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 
-- 2021 - present: **Budapest University of Technology and Economics**
+- 2021 - present: **[Department of Measurement and Information Systems, BME](http://www.mit.bme.hu/eng/)**
+
   _Research Assistant, Working with NASA JPL and IncQuery Labs on creating a cloud-based model checking framework for SysML models_
 - 2019 - present: **Budapest University of Technology and Economics**
+
   _Teaching Assistant, Delivering practical lectures, correcting and assembling exams and homework assignments_
 - 2021: **[CERN](https://home.web.cern.ch)** (10 weeks)
+
   _Summer Intern, Researching formal verification of PLC programs in the PLCverif tool_ [<i class="fab fa-github"></i>](https://gitlab.com/plcverif-oss) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2780057)
 - 2020: **[evosoft Hungary](https://www.evosoft.hu)** (7 months)
+
   _Software Engineer Intern, .NET developer_
 
 <!-- ## <i class="fas fa-handshake fa-fw"></i> Volunteering -->
