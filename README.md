@@ -33,5 +33,5 @@ My PhD advisor is [Dr. Vince Molnár](https://mit.bme.hu/~molnarv).
 <!-- ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications -->
 
 ## <i class="fas fa-university fa-fw"></i> Service
-- **Subreviewer**: [FASE'24](https://etaps.org/2024/conferences/fase/)
+- **Subreviewer**: [FASE'24](https://etaps.org/2024/conferences/fase/), [TACAS'24 (SV-COMP)](https://sv-comp.sosy-lab.org/2024/)
 - **Artifact Subreviewer**: [CAV'22](http://i-cav.org/2022/)
