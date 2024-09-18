@@ -14,7 +14,7 @@ My PhD advisor is [Dr. Vince Molnár](https://mit.bme.hu/~molnarv).
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 
-- 2021 - present: **[Department of Measurement and Information Systems, BME](http://www.mit.bme.hu/eng/)**  
+- 2021 - present: **[Critical Systems Research Group (ftsrg), BME](https://ftsrg.mit.bme.hu/en/)**  
   Research Assistant, _Working with NASA JPL and IncQuery Labs on creating a cloud-based model checking framework for SysML models_ [<i class="fas fa-file-alt"></i>](https://dl.acm.org/doi/10.1145/3417990.3421407)
 - 2019 - present: **[Budapest University of Technology and Economics](https://www.bme.hu/?language=en)**  
   Teaching Assistant, _Delivering practical lectures, correcting and assembling exams and homework assignments_
