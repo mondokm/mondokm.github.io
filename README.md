@@ -2,11 +2,11 @@
 
 PhD student in formal methods at the Budapest University of Technology and Economics, with an interest in critical systems and formal verification. I primarily do research on the formal verification of SysML system models. Former intern at CERN and evosoft Hungary.
 
-My PhD advisor is [Dr. Vince Molnár](https://mit.bme.hu/~molnarv).
+My PhD advisor is [Dr. Vince Molnár](https://www.mit.bme.hu/eng/general/staff/molnarv).
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
 - 2023 - present: **Budapest University of Technology and Economics**  
-  Computer science PhD, _advised by [Dr. Vince Molnár](http://mit.bme.hu/~molnarv/)_
+  Computer science PhD, _advised by [Dr. Vince Molnár](https://www.mit.bme.hu/eng/general/staff/molnarv)_
 - 2021 - 2023: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mondokmMsc2022.pdf)
 - 2017 - 2021: **Budapest University of Technology and Economics**  
