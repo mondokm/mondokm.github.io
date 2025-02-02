@@ -2,11 +2,11 @@
 
 PhD student in formal methods at the Budapest University of Technology and Economics, with an interest in critical systems and formal verification. I primarily do research on the formal verification of SysML system models. Former intern at CERN and evosoft Hungary.
 
-My PhD advisor is [Dr. Vince Molnár](https://mit.bme.hu/~molnarv).
+My PhD advisor is [Dr. Vince Molnár](https://www.mit.bme.hu/eng/general/staff/molnarv).
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
 - 2023 - present: **Budapest University of Technology and Economics**  
-  Computer science PhD, _advised by [Dr. Vince Molnár](http://mit.bme.hu/~molnarv/)_
+  Computer science PhD, _advised by [Dr. Vince Molnár](https://www.mit.bme.hu/eng/general/staff/molnarv)_
 - 2021 - 2023: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mondokmMsc2022.pdf)
 - 2017 - 2021: **Budapest University of Technology and Economics**  
@@ -14,7 +14,7 @@ My PhD advisor is [Dr. Vince Molnár](https://mit.bme.hu/~molnarv).
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 
-- 2021 - present: **[Department of Measurement and Information Systems, BME](http://www.mit.bme.hu/eng/)**  
+- 2021 - present: **[Critical Systems Research Group (ftsrg), BME](https://ftsrg.mit.bme.hu/en/)**  
   Research Assistant, _Working with NASA JPL and IncQuery Labs on creating a cloud-based model checking framework for SysML models_ [<i class="fas fa-file-alt"></i>](https://dl.acm.org/doi/10.1145/3417990.3421407)
 - 2019 - present: **[Budapest University of Technology and Economics](https://www.bme.hu/?language=en)**  
   Teaching Assistant, _Delivering practical lectures, correcting and assembling exams and homework assignments_
