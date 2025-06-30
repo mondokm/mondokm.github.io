@@ -33,6 +33,6 @@ My PhD advisor is [Dr. Vince Molnár](https://www.mit.bme.hu/eng/general/staff/m
 <!-- ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications -->
 
 ## <i class="fas fa-university fa-fw"></i> Service
-- **Subreviewer**: [FASE'24](https://etaps.org/2024/conferences/fase/), [TACAS'24 (SV-COMP)](https://sv-comp.sosy-lab.org/2024/)
+- **Subreviewer**: [FASE'24](https://etaps.org/2024/conferences/fase/), [TACAS'24 (SV-COMP)](https://sv-comp.sosy-lab.org/2024/), [SCP](https://dl.acm.org/journal/scpr), [Minisy'25](https://www.mit.bme.hu/eng/research/minisymposium)
 - **Artifact Subreviewer**: [CAV'22](http://i-cav.org/2022/)
 - **Reviewer and Section Secretary**: [EELISA SSC '24](https://eelisa.eu/events/eelisa-2024-student-scientific-competition/)
